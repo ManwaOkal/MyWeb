@@ -14,7 +14,8 @@
   <body>
   	<header>
   		 <nav id="header-nav" class="navbar navbar-expand-sm fixed-top navbar-light bg-white">
-          <nav class="container">  <!--navbar-expand-sm means it's visible only for devices smaller than sm-->
+           <!--navbar-expand-sm means it's visible only for devices smaller than sm. <nav class="container"> removed-->
+            <nav class="container">
   				   <div class="navbar-header">
   				      <a id="title" href="#" 
   				         class=" float-md-start float-lg-start" 
@@ -23,14 +24,16 @@
   				       </a>
                  <button
                  type="button"
+                  
                  data-bs-toggle="collapse"
                  data-bs-target="#NavbarNav"
                  class="navbar-toggler"
                  arial-controls="NavbarNav"
                  arial-expanded="false" 
                  arial-lable="Toggle navigation"
+
                  >
-                   <span class="navbar-toggler-icon" style="float:left;"></span>
+                   <span class="navbar-toggler-icon"></span>
                  </button>
       
             </div>
@@ -67,7 +70,7 @@
             </ul>
               
           </div>
-  				</div>
+  			</nav>	
 
   			
   		</nav>
