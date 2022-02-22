@@ -6,7 +6,7 @@ body {
 /*HEADER*/
 #title{
 	color: darkblue;
-	font-weight: bold;
+	/*font-weight: bold;*/
 	/*text-shadow: 1px 1px 1px blue;*/
 	font-size: 17px;
 	margin-top: 0;
