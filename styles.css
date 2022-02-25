@@ -1,5 +1,5 @@
 body {
-	background-color: cyan;
+	background-color: black;
 	height: auto;
 
 }
@@ -41,4 +41,10 @@ body {
 }
 #phone div{
 
+}
+
+/*Body*/
+
+.jumbotron{
+	box-shadow: 0 0 50px black;
 }
