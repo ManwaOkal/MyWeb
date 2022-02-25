@@ -1,5 +1,5 @@
 body {
-	background-color: black !important;
+	background-color: lightgray; !important;
 	height: auto;
 
 }
@@ -48,3 +48,4 @@ body {
 .jumbotron{
 	box-shadow: 0 0 50px black;
 }
+
