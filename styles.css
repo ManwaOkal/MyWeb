@@ -38,13 +38,14 @@ body {
    background-color: lightgray;
    text-decoration: none;
    position:absolute;
-   bottom:0;
+    bottom:0;
    width:100%;
-   height:90px;   /* Height of the footer */
+   height:80px;   /* Height of the footer */
    font-size: 19px;
    font-family: 'Redressed', cursive;
    padding-bottom: 0;
    color: black;
+   margin-bottom:0;
 
    }
 
@@ -52,4 +53,9 @@ body {
  	text-decoration: none;
     
  	}
+
+ footer a:nth-child(1){
+ 	text-decoration: underline;
+ 	color: darkblue !important
+ }
 	
