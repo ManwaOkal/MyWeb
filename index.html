@@ -17,18 +17,19 @@
   <body>
     <header>
        <nav id="header-nav" class="navbar navbar-expand-sm navbar-light">
-           <!--navbar-expand-sm means it's visible only for devices smaller than sm. <nav class="container"> removed-->
+           <!--navbar-expand-sm means that the navbar will only expand for devices smallet than smaller than sm.-->
+            
+            <!--Company Logo below-->
             <nav class="container-fluid">
              <div class="navbar-header">
-              <!-- after the href i had class=header-nav" removed-->
-                <a id="title" href="#"
-                >
+                <a id="title" href="#header-nav">
                   <img 
                    class="float-left d-inline-block align-middle" 
                    src="images/logo-l.jpg" width="100" height="100" alt="logo image">Tech meets Creativity :)
                  </a>
-             
-                 <button style="position: relative;" 
+
+                 <!--Collapsible menu-->
+                 <button 
                    type="button"
                    data-bs-toggle="collapse"
                    data-bs-target="#NavbarNav"
@@ -40,8 +41,7 @@
                  </button>
                </div>
 
-            <!-- Collapsible Menu-->
-        <div id="padding"><!--rearranged menu-->
+            <!-- Collapsible Menu. The class TopNav is for my custom styling-->
           <div 
             class="collapse navbar-collapse"
             id="NavbarNav">
@@ -60,7 +60,7 @@
               </li>
               <li class="nav-item dropdown TopNav" >
                 <a href="#"
-                class="active nav-link dropdown-toggle"
+                class="nav-link dropdown-toggle active "
                 id="navbarDropdown" role="button"
                 data-bs-toggle="dropdown"
                 aria-expanded="false">
@@ -90,25 +90,29 @@
         </div>
 
       </div>
+
+      <!--Search Button--->
       <div class="input-group">
          <input type="search" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
         <button type="button" class="btn btn-outline-primary">search</button>
      </div>
+
     </nav>
     </nav>
-  </header>
-  <!--End header-->
-  <!--Footer-->
-  <footer id="footer"  class= "bg-white text-center text-lg-start">
-  <!-- Copyright -->
+  </header><!--End header-->
+
+
+  <!--Footer (copyright and phone) -->
+  <footer id="footer"  class= "text-center text-lg-start">
   <div class="text-center p-3">
     &copy;Copyright: 
     <a class="text-dark" href="https://www.instagram.com/careyokal/" target="_blank">IG account</a>
     <a href="tel:+254718283529"> <br><span>phone: 0718283529</span></a>
   </div>
-  <!-- Copyright and phone -->
   </footer>
- <!--End Of Footer-->  
+ <!--End Of Footer-->
+
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script src="script.js"></script>
 

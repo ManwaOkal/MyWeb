@@ -7,8 +7,8 @@ body {
 /*HEADER*/
 #title{
 	color: darkblue;
-	/*font-weight: bold;*/
-	/*text-shadow: 1px 1px 1px blue;*/
+	/*font-weight: bold;
+	text-shadow: 1px 1px 1px blue;*/
 	font-size: 17px;
 	margin-top: 0;
 	margin-bottom: 0;
@@ -19,7 +19,7 @@ body {
 }
 
 #header-nav{
-	background-color: floralwhite;
+	background-color: whitesmoke;
 
 }
 .TopNav{
@@ -31,16 +31,17 @@ body {
 
 /*footer*/
 #footer {
+   background-color: whitesmoke;
    text-decoration: none;
    position:absolute;
    bottom:0;
    width:100%;
-   height:80px;   /* Height of the footer */
-   background:#6cf;
+   height:70px;   /* Height of the footer */
    font-size: 19px;
    font-family: 'Redressed', cursive;
    padding-bottom: 0;
    color: black;
+
    }
 
  div > a{
