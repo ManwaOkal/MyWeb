@@ -1,7 +1,6 @@
 body {
-	background-color: lightgray;
+	background-color:white;
 	height: auto;
-	padding-bottom: 0;
 
 }
 /*HEADER*/
@@ -19,9 +18,14 @@ body {
 }
 
 #header-nav{
-	background-color: whitesmoke;
+	background-color: lightgray;
 
 }
+
+
+
+/*Collapsible menu*/
+
 .TopNav{
 	font-size: 25px;
 	font-weight: bold;
@@ -31,12 +35,12 @@ body {
 
 /*footer*/
 #footer {
-   background-color: whitesmoke;
+   background-color: lightgray;
    text-decoration: none;
    position:absolute;
    bottom:0;
    width:100%;
-   height:70px;   /* Height of the footer */
+   height:90px;   /* Height of the footer */
    font-size: 19px;
    font-family: 'Redressed', cursive;
    padding-bottom: 0;
@@ -46,7 +50,6 @@ body {
 
  div > a{
  	text-decoration: none;
- 	font-size: 19px;
-
- }
+    
+ 	}
 	
