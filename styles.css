@@ -86,11 +86,11 @@ body {
 	
 /*--------------Responsive Framework-------------------------------*/
 
-@media (min-width: 768px){
+/*@media (min-width: 768px){
 	footer{
 		position: fixed;
 	}
-}
+}*/
 
 @media(max-width: 362px){
 	#Main-content{
