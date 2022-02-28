@@ -77,7 +77,8 @@ body {
  	padding-top: 3px;
  	text-align: center;
  	text-transform: uppercase;
- 	color: black;
+ 	color: white;
+ 	font-weight: bolder;
  	font-size: 21px;
    font-family: 'Redressed', cursive;
    text-decoration: underline;
@@ -88,6 +89,14 @@ body {
 @media (min-width: 768px){
 	footer{
 		position: fixed;
+	}
+}
+
+@media(max-width: 362px){
+	#Main-content{
+		background: url("images/bg-lg.jpg");
+		color: white;
+		font-weight: bold;
 	}
 }
 
