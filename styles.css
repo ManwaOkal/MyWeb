@@ -1,6 +1,6 @@
 body {
-	background-color:white;
-	height: auto;
+	background-color: white;
+	
 
 }
 /*HEADER*/
@@ -37,15 +37,13 @@ body {
 #footer {
    background-color: lightgray;
    text-decoration: none;
-   position:absolute;
-   bottom:0;
    width:100%;
-   height:80px;   /* Height of the footer */
-   font-size: 19px;
+   height: 70px;
+   font-size: 17px;
    font-family: 'Redressed', cursive;
-   padding-bottom: 0;
+   bottom: 0;
    color: black;
-   margin-bottom:0;
+
 
    }
 
@@ -58,4 +56,40 @@ body {
  	text-decoration: underline;
  	color: darkblue !important
  }
+
+
+/*--------------------Main-content---------------*/
+
+
+ #Main-content{
+ 	font-size: 16px;
+ 	color: black;
+ 	height: 100%;
+ 	padding-top: 2px;
+ 	text-align: justify-all;
+ }
+
+ #Main-content  a{
+ 	text-decoration: none;
+ }
+
+ div > h1 {
+ 	padding-top: 3px;
+ 	text-align: center;
+ 	text-transform: uppercase;
+ 	color: black;
+ 	font-size: 21px;
+   font-family: 'Redressed', cursive;
+   text-decoration: underline;
+ }
 	
+/*--------------Responsive Framework-------------------------------*/
+
+@media (min-width: 768px){
+	footer{
+		position: fixed;
+	}
+}
+
+
+
