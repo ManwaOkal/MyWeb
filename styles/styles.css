@@ -43,7 +43,7 @@ body{
     box-sizing: border-box;
     width: 100%;
     max-width: 1650px;
-    min-width: 1650px;
+    min-width: 1000px;
     margin: 0 auto;
     background-image: url("../Images/Background-min.jpg");
    /*background-size: cover;
