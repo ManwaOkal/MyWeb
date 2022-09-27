@@ -46,11 +46,12 @@ body{
     max-width: 1650px;
     min-width: 1000px;
     margin: 0 auto;
-    background-image: url('/Images/Background-min.jpg');
+    background-image: url('../images/Background-min.jpg');
    /*background-size: cover;
    background-blend-mode: multiply;
    background-position: center;
    background-color: #343539;*/
+   z-index: 2;
 }
 main{
     padding: 2em;
