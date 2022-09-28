@@ -129,7 +129,7 @@ Be clear and concise in your writing. Bullets points are encouraged.
 
 > - Is the site designed for desktop, mobile, or desktop and mobile devices?
 
-- It is both a mobile website.
+- It is a desktop site.
 
 
 ## Audience & Goals (Milestone 1)
@@ -140,7 +140,7 @@ Using what you learned from studying the example websites, identify your website
 
 > Briefly explain who the intended audience is for your website. Be specific and justify why this audience is appropriate for your site's topic.
 
-My site's audience will mainly be anyone who has an ardent desire to learn how to code but do not know where to start from and any potential future employer in need of a web developer. I will also be targetting donors to help me in my course of bringing programming skills to Africa.
+My site's audience will mainly be anyone who has an ardent desire to learn how to code but do not know where to start from and any potential future employer in need of a web developer. I will also be targetting donors to help me in my course of bringing programming skills to the door of every Kenyan home.
 
 ### Audience Goals (Milestone 1)
 
@@ -149,10 +149,9 @@ My site's audience will mainly be anyone who has an ardent desire to learn how t
 
 1. To get more information on how to build websites.
 
-2. To get my contact details.
+2. To get to know me as a person.
 
-3. To make donations to drive my course.
-
+3. To get context of what I do and who I have manged to reach out to.
 4. To see my work before deciding when making a decision on whether to hire me or not.
 
 ## Content Planning (Milestone 1)
@@ -165,8 +164,8 @@ Plan your site's content.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
 - Text; a description of my work and what I hope to achieve and my contact details.
-- links; Links to my social media handles, programming resources and to the main donations site.
-- Photos; Photos of the flagship class and the startup logo.
+- links; Links to programming resources.
+- Photos; For aesthetic purposes.
 
 ### Content Justification (Milestone 1)
 
@@ -180,7 +179,7 @@ Plan your site's content.
 >
 > Briefly identify what content you will include on the homepage and why this content should be the first thing your target audience sees when they visit your site.
 
-Homepage content: My education journey,interests and the articles I have been featured on.
+Homepage content: My education journey,interests and my work experience.
 
 ## Information Architecture (Milestone 2)
 
@@ -194,10 +193,10 @@ You may change your homepage content based on your card sorting. If you do chang
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
-![Iteration1](design-plan/../Images//IMG_1039.jpg)
-For the iteration above, I chose to group my education, inspiration and articles I have been featured on since they all talk about me directly.  The location and contact form are grouped together so that incase one gets lost on the way, they easily have a access to someone they can contact or submit their information to. The links to resources, donations form and sponsors' logos are together since they all touch to the finacial aspect of the startup. The success stories, learning outcomes and complete projects are grouped together since they all talk of our achievements as a startup.
+![Iteration1](Images/../../Images/IMG_1039.jpg)
+For the iteration above, I chose to group my education,work experience inspiration and articles I have been featured on since they all talk about me directly. The location and contact form are grouped together so that incase one gets lost on the way, they easily have a access to someone they can contact or submit their information to. The links to resources, donations form and sponsors' logos are together since they all touch to the finacial aspect of the startup. The success stories, learning outcomes and complete projects are grouped together since they all talk of our achievements as a startup.
 
-![Iteration2](design-plan/../Images//IMG_1040.jpg)
+![Iteration2](../Images//IMG_1040.jpg)
 For the iteration above, I grouped my education, location of the startup and the inspiration behind the startup to create a storyline i.e; How I got my education, how I actualized my dreams and finally where I drew my inspiration to do all this. For the middle set of cards, I put together all the cards that touch on the impact of the work we do at the startup and if one is inspired or wants more information, there is a contact form. I finally grouped donations, sponsors, and intersts with complete projects so as to inspire someone to donate after seeing the good work we are doing.
 ### Final Content Organization (Milestone 2)
 
@@ -215,10 +214,10 @@ I strongly believe it has appropriately combined all related fields and organizi
 
 - Home
 - Success stories
-- Support us
+- Join Us
 > Explain why the names of these pages make sense for your site's audience.
 
-For home, the user will automatically know that that's where the introduction to what the website is all about and the best place to start their navigation on the website. Once they have an idea of what the site is about, the Success stories page will make sense since they will want to know what the impact of what we do. Lastly the support us page name will make sense since the page's content is geared towards accepting donations.
+For Home, the user will automatically know that that's where the introduction to what the website is all about and the best place to start their navigation on the website. Once they have an idea of what the site is about, the Success stories page will make sense since they will want to know what the impact of what we do. Lastly the 'Join Us' page name will make sense since the page's content is geared towards accepting donations.
 
 ## Visual Themes (Milestone 3)
 
@@ -232,29 +231,27 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
 
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences.
 
-- For the background, I plan to use royal blue to convey an exhubarant feeling to anyone who visits the site. Ours is  story of hope, and a calm yet subtly bright color will do an excellent job to convey this.
-- Altenatively, I can use gray instead of royal blue since its a camling color and when combined with black font, it will equally do decent job.
-- For the header and footer, I intend to use bold white san serif fonts to create an element of professionalism. The bckground color will be gray. This blend of colors will make the text very easy and relaxing to read.
-- Lastly for the navigation bar, I intend to use rounded edges/ softened edges to easen the feel of the website.
+- I'm thinking about employing a royal blue background for the background to evoke an exuberant vibe. A serene yet slightly brilliant color will do a great job of communicating a message of hope to everybody who visits the website. Along with yellow text, the royal blue background will convey positive vibes.
+- As an alternative, I could use a dark background image for the body and a gray background with white writing in place of royal blue for some text-heavy parts. This "calming color combination" will help me achieve my objective of making a pleasant space. To draw the reader's attention to the navigation bar, I'll use black font against a white background.
 
 ### Final Theme (Milestone 3)
 
 > Which theme did you select as your final theme? Why?
 
-- I will be using bright blue and white colors for the background. The bright blue is meant to convey positive feelings around the website. The contrast between the blue and gray white will also be drawing the attention of the users to the navigation of the site. I chose this over the gray since I felt gray is kind of too dull and combining it with black font will be counter productive.
+- I'll go with choice number two (Dark, white and gray). The audience will feel calmer as a result of the contrast between the black, white, and gray, which also sets the mood for the site's content. Because it is more adaptable and simple to combine with text, I chose this over the royal blue. The theme is also calming.
 
 
 ### Theme Rationale (Milestone 3)
 
 > Discuss your final theme design: how do they fit your overall design goals and audiences?
 
-- Choosing royal blue for the the background will set a positive feeling for anyone visiting the site which is my primary design goal when developing the site. My audience will also feel an attachment to the positivity which might by extension secure more donations and more students.😁
+- My intention is to build a less formal and more welcoming website so that anyone who visits would enjoy reading its contents. Black, gray and white colors are definetly the best best to achieving this.
 
 > Emotion is a big part of design. What emotions were you thinking about or trying to convey in your designs?
 
- - Happiness
- - Inspirational
- - Calming
+- Happiness
+- Inspirational
+- Calming
 
 ## Layout & Composition (Final Submission)
 

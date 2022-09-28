@@ -15,6 +15,8 @@ nav.upperNav{
 nav.upperNav ul{
     display: flex;
     justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: nowrap;
 }
 nav.upperNav ul li a{
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -59,7 +61,7 @@ main.page{
     background-image: url('../images/Background2.jpg');
     z-index: 1;
     background-size: cover;
-    background-blend-mode: multiply;
+    background-blend-mode: multiply;z
 
 }
 .Flex-Paragraph{
