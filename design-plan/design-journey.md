@@ -21,7 +21,7 @@ Be clear and concise in your writing. Bullets points are encouraged.
 > How you will your audience likely access your website?
 > You will design your website for mobile or desktop devices (not both).
 
-- My website will be accessed through a phone.
+- My website will be accessed through a laptop.
 
 ## Personal Website Design Exploration (Milestone 1)
 
@@ -31,15 +31,15 @@ Be clear and concise in your writing. Bullets points are encouraged.
 
 1. <https://butterflyprime.com/>
 
-    ![Butterfy prome solutions ](design-plan/../Images/screenshot-1.png)
+    ![Butterfy prome solutions](design-plan/../Screenshot%20(16).png)
 
 2. <https://mskousen.com/about/>
 
-    ![Mark's Personal Website](design-plan/../Images/screenshot-2.png)
+    ![Mark's Personal Website](design-plan/../Screenshot%20(17).png)
 
 3. <https://jamespaulkeller.com/>
 
-    ![James Keller's Website](design-plan/../Images/Screenshot-3.png)
+    ![James Keller's Website](design-plan/../Screenshot%20(18).png)
 
 ### Personal Website 1 Review (Milestone 1)
 
@@ -248,7 +248,7 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
 
 > Discuss your final theme design: how do they fit your overall design goals and audiences?
 
-- Choosing royal blue for the the background will set a positive feeling for anyone visiting the site which is my primary design goal when developing the site. My audience will also feel an attachment to the positivity which might by extension secure more donations and more students.😁 
+- Choosing royal blue for the the background will set a positive feeling for anyone visiting the site which is my primary design goal when developing the site. My audience will also feel an attachment to the positivity which might by extension secure more donations and more students.😁
 
 > Emotion is a big part of design. What emotions were you thinking about or trying to convey in your designs?
 

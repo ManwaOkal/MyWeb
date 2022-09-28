@@ -38,11 +38,13 @@ nav.upperNav ul li a:hover{
 
 
 
+/*Body..............*/
+
 body{
     box-sizing: border-box;
     width: 100%;
     max-width: 1650px;
-    min-width: 1000px;
+    min-width: 600px;
     margin: 0 auto;
    /*background-image: url('../images/Background-min.jpg');
    background-size: cover;
@@ -120,8 +122,6 @@ div.main-content h2{
     padding-bottom: 10px;
     border-radius: 12px;
 
-
-
 }
 
 .Interests{
@@ -129,6 +129,7 @@ div.main-content h2{
     flex-direction: row;
     justify-content: space-evenly;
 }
+
 .Interest-content{
     height: 370px;
     width: 370px;
@@ -137,22 +138,22 @@ div.main-content h2{
     position: relative;
     border: 12px solid #121214;
     border-radius: 12px;
-
 }
 
 .Interest-content:hover{
     top: -3px;
     border: 12px solid #000000;
-
 }
+
 div.Interest-content h2{
     text-decoration: underline;
     text-align: center;
 }
+
  h2.success{
     text-decoration: none;
-
 }
+
 .success-content{
     height: 361px;
     width: 361px;
@@ -161,8 +162,9 @@ div.Interest-content h2{
     position: relative;
     border: 12px solid #121214;
     border-radius: 12px;
-
 }
+
+/*End of Body.........................................*/
 
 /*General*/
 
