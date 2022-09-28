@@ -279,7 +279,7 @@ TODO: site sketches
 >dfd
 > Audit your design and check that you aren't relying on any dynamic features.
 
-TODO: Explain why your site's design is completely static.
+- The contents of the website are displayed as fixed contentsas I coded them in HTML. They are not adapting to the browser width.
 
 ## Rationale (Final Submission)
 
@@ -295,31 +295,33 @@ Your rationale should be a polished version of the earlier explanations.
 
 > A complete and polished description of the intended audience(s) for your website.
 
-TODO: audience rationale
+- Anyone interested in learning how to program but unsure of where to begin is my intended audience. I have an entire webpage dedicated to this on my website, where the contents are. Additionally, anyone curious about Carey and his accomplishments will undoubtedly find the website to be a useful resource. Finally, my audience will also include future employers. All the essential details they could require to decide whether or not to hire me are on the first page.
 
 ### Design Goals (Final Submission)
 
 > An explanation of the design goals for that audience, based on your earlier rationales.
 
-TODO: your design goals
+- My first design objective for the audience is to incorporate the website's very text-heavy material without compromising the website's appeal or usability. This, however, presented a significant issue because I continuously encountered CSS issues. In order to handle this, I choose to create the website in stages, starting with the navigation bar, core content, and flexible paragraphs. This relatively simplified approach helped fit all the content into the site whilst maintaining the ease of navigation.
+- In addition, I didn't want the aesthetics of the site's content to make the audience bored to death. I used a lot of "calming" hues, such subtly dull gray, white, and black, in a bid to make people feel calm. Rather than opting for 'shouting' colors, to convey positive vibes as I had earlier intending, I went for calmness due to the text heavy aspect of the site.
+- Lastly, I wanted the audience to follow the story of tech logics from start to finish. I also wanted it not to be just a story; but a story of hope and breaking the glass ceiling. I therefore arranged my site's content in pages that complemented each other thus making it eier for the audience to follow the story of tech logics.
 
 ### Content Organization & Navigation (Final Submission)
 
 > An explanation of how the final content organization and navigation met your goals and why it's appropriate for your audience.
 
-TODO: content and information architecture rationale
+-I organized my site's pages into 3 pages, all with the same layout. All these pages have titles similar to the link on the navigation bar leading to them which makes the site very easy to navigate. All pages have accompanying images next to the main paragraph that blend in perfectly with the length of the paragraphs, contributing to the site's soft boxy design. Finally, each webpage is split into three sections: the navigation bar, the main paragraph, and four smaller paragraphs. This design allows the text contents to be fit without making the page too long to navigate.
 
 ### Visual Design (Final Submission)
 
 > An explanation of how the final design met your goals and why it's appropriate for your audience.
 
-TODO: design rationale
+- My final design makes extensive use of soft edges as opposed to sharp edges. I opted for this to make the site more welcoming and calming. To add on to this, I chose to use a black background, white text and a gray background for the paragraphs. This was meant add on to the visual appel that I wanted my site to have, a more soothing kind of vibe.
 
 ### Self-Reflection (Final Submission)
 
 > Take some time here to reflect on how much you've learned since you started this class. It's often easy to ignore our own progress. Take a moment and think about your accomplishments in this class. Hopefully you'll recognize that you've accomplished a lot and that you should be very proud of those accomplishments!
 
-TODO: reflection
+- I entered the class as a novice, knowing very little about CSS, let alone HTML. It's been fascinating to use flex boxes instead of floating elements, as I used to. I've also learned a lot about acceptable web development practices that I had previously overlooked. I am amazed by the amount of progress I have made in the past weeks and I can't wait to learn more.
 
 ## Grading (Final Submission)
 
@@ -327,7 +329,7 @@ TODO: reflection
 
 > Should the graders, grade your site as a desktop site or a mobile site?
 
-TODO: mobile/desktop
+- Desktop
 
 ### Grading: Open the Design Journey in Markdown: Open Preview (Final Submission)
 
@@ -340,16 +342,15 @@ TODO: mobile/desktop
 >
 > Is your design journey easy to read?
 
-TODO: design journey ready to grade?
-
+- Yes
 ### Collaborators
 
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+- None
 
 ### Resources
 
 > Please cite any external resources you used in the creation of your project.
 
-TODO: list resources
+- I used pexels to get images for my website. <https://www.pexels.com/search/website%20background/>
