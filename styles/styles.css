@@ -18,6 +18,9 @@ body{
 nav.upperNav{
     background-color:#ffffff;
     border: 10px solid #121214;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
 
 }
 nav.upperNav ul{
