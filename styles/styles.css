@@ -8,7 +8,7 @@ html{
 }
 
 body{
-     background-image: url('../images/Background2.jpg');
+     background-image: url('../Images/Background2.jpg');
      background-size: cover;
      background-blend-mode: multiply;
 }
